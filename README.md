@@ -7,7 +7,7 @@ spotify api documentation
 =========================
 [Metadata API](https://developer.spotify.com/technologies/web-api/)
 
-proposed lession separation
+proposed lesson separation
 ===========================
 lets create different branches per lesson. thoughts?
 
